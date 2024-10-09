@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @haiderBar
+- i know a good bit of luau,
+- but i am learning gdscript hopefully.
+- 
+- i also made dirtland.
+- 
+- dirt.
